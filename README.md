@@ -1,2 +1,2 @@
 # PA_WSN_IoT
-Precision Agriculture using WSN and IoT.
+This is an IoT project built as a part of the academic curiculum for the major project. There are 2 ESP8266 12-E is used in a mesh network to create a wireless sensor network.
